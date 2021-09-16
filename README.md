@@ -1,2 +1,3 @@
-<h2 align="center"><img src="https://imgur.com/a/J2UWWjq" height="128" /> - Sup</h2>
+<h1 align="center" vertical-align="middle" ><img src="./retro_computer.gif" height="128" /></h1>
+<h1 align="center">Sup 👋🏻</h1>
 
