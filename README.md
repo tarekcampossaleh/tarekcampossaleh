@@ -9,7 +9,6 @@
 
 <ul>
     <li>Compilers enthusiast 💻</li>
-    <li>Studying Rust 🦀</li>
     <li>Fan of creative coding 📦</li>
     <li>Love Synthwave and demoscene 🌆</li>
   </ul>
