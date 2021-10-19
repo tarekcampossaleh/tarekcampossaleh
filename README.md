@@ -5,7 +5,7 @@
 </p>
 
 <h3>About me</h3>
-<p>I'm Tarek Campos, a Software Developer based in Brazil. I currently have 21 years old and I'm an undergrad Computer Engineering at UFG</p>
+<p>I'm Tarek Campos, a Software Developer based in Brazil and I'm an undergrad Computer Engineering at UFG</p>
 
 <ul>
     <li>Compilers enthusiast 💻</li>
