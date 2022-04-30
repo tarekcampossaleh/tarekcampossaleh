@@ -5,7 +5,7 @@
 </p>
 
 <h3>About me</h3>
-<p>I'm Tarek Campos, a Software Developer based in Brazil and I'm an undergrad Computer Engineering at UFG</p>
+<p>A Software Developer</p>
 
 
 <h3>Contact</h3>
