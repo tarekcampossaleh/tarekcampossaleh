@@ -5,8 +5,7 @@
    
 
 </p>
-
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <h3>Contact</h3>
 <a href="mailto:tarekcampossaleh@gmail.com">
