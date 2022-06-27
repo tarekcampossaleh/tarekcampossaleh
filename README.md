@@ -3,7 +3,7 @@
   <br>
    <h2 align="center">Sup, 👋</h2>
    
-
+I'm a FullStack Developer, with professional experience with Elixir, TypeScript, AWS, and a lot more.
 </p>
 
 
